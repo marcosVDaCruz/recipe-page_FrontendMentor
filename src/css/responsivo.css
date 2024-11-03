@@ -1,0 +1,10 @@
+@media(max-width: 480px) {
+  .container {
+    margin: 0%;
+  }
+
+  .recipe {
+    margin: 20px;
+    font-size: 14px;
+  }
+}
